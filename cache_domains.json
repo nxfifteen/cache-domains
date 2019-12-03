@@ -101,6 +101,11 @@
 			"domain_files": ["wargaming.net.txt"]
 		},
 		{
+			"name": "alpine",
+			"description": "CDN for alpine linux updates",
+			"domain_files": ["alpinelinux.txt"]
+		},
+		{
 			"name": "wsus",
 			"description": "CDN for windows updates",
 			"domain_files": ["windowsupdates.txt"]
